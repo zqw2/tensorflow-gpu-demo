@@ -1,0 +1,3 @@
+本项目主要是为了提供一个快速验证pytorch/cuda/安装完成的demo
+
+tensorflow目前只支持cuda 10.0
