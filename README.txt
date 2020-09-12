@@ -1,3 +1,4 @@
-本项目主要是为了提供一个快速验证pytorch/cuda/安装完成的demo
 
-tensorflow目前只支持cuda 10.0以上
+
+经过验证，使用tensorflow=2.1.0 ,cuda=10.0,cudnn=cudnn-10.0-linux-x64-v7.6.532,可以正常运行
+
